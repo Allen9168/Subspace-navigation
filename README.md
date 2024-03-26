@@ -5,7 +5,9 @@
 
 ## Advanced CLI的使用教程
 Advanced CLI拥有更多高级参数,对于对计算机了解比较高的人可以使用Advanced CLI,更多参数也许能让你的农民工作得更好
+
 链接:https://forum.subspace.network/t/ubuntu-windos/1879
+
 链接2:https://forum.subspace.network/t/3h-node/2888
 
 ## Advanced CLI的一些脚本工具
