@@ -39,7 +39,9 @@ Link: https://github.com/Allen9168/space-acres-Chinese/releases
 
 ## Tutorial on Using Advanced CLI
 Advanced CLI has more advanced parameters. For those with a better understanding of computers, Advanced CLI can be used. More parameters may make your farming work better.
+
 Link: https://forum.subspace.network/t/ubuntu-windos/1879
+
 Link2: https://forum.subspace.network/t/3h-node/2888
 
 ## Some Script Tools for Advanced CLI
