@@ -42,7 +42,7 @@ Advanced CLI has more advanced parameters. For those with a better understanding
 Link: https://forum.subspace.network/t/ubuntu-windos/1879
 Link2: https://forum.subspace.network/t/3h-node/2888
 
-##　Some Script Tools for Advanced CLI
+## Some Script Tools for Advanced CLI
 By combining some parameters I have configured with scripts, you can start with one click, making it more convenient and faster.
 Link: https://forum.subspace.network/t/ubuntu-windos/2909/3
 
