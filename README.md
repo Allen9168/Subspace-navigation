@@ -1,4 +1,4 @@
-# Space Acres 汉化版
+## Space Acres 汉化版
 对官方的Space Acre进行了汉化处理,非常适合小白,只需要简单的设置,即可开始耕种
 链接:https://github.com/Allen9168/space-acres-Chinese/releases
 
