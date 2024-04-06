@@ -20,11 +20,15 @@ Advanced CLI拥有更多高级参数,对于对计算机了解比较高的人可�
 链接:https://forum.subspace.network/t/ubuntu-windos/2909/3
 
 
+## 上行过高 情况说明和调理方法
+
+
+
 ## 中国部分人奖励过低的说明和解决办法
 
 部分中国大陆的农民奖励过低,该教程解释了问题和解决方案
 
-链接:https://forum.subspace.network/t/topic/2916/5
+链接:[https://forum.subspace.network/t/topic/2916/5](https://forum.subspace.network/t/topic/3140)
 
 
 ## node存档文件下载
