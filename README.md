@@ -19,10 +19,11 @@ Advanced CLI拥有更多高级参数,对于对计算机了解比较高的人可�
 
 链接:https://forum.subspace.network/t/ubuntu-windos/2909/3
 
-
 ## 上行过高 情况说明和调理方法
 
+上行过高?运行farm百度都打不开?看看这个
 
+链接:
 
 ## 中国部分人奖励过低的说明和解决办法
 
