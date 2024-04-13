@@ -23,7 +23,7 @@ Advanced CLI拥有更多高级参数,对于对计算机了解比较高的人可�
 
 上行过高?运行farm百度都打不开?看看这个
 
-链接:
+链接:https://forum.subspace.network/t/topic/3180
 
 ## 中国部分人奖励过低的说明和解决办法
 
